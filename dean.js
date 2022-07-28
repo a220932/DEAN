@@ -111,8 +111,8 @@ class Table {
 
 
 
-let tablec = new Table("table2");
-list();
+//let tablec = new Table("table2");
+//list();
 
 $(document).ready(function() {
     $("#result").on("mouseenter", function() {
